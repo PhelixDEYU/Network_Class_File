@@ -1,1 +1,2 @@
-# Network_Class_File
+# 網路輔助學習系統研究
+# 蕭淂聿
