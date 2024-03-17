@@ -4,4 +4,4 @@
   
   ✴️第一次作業測驗：0226前中後測test.ipynb
   
-  ✴️第一次作業：
+  ✴️第一次作業：Network_HW1_newsarticle.ipynb
