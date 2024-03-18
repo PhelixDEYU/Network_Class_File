@@ -8,4 +8,4 @@
   
  ###### 因為在網路搜尋新聞雖然輸入關鍵字但是會多不必要的資訊，所以會想要快速精準去找尋自己需要的新聞文章，利用News API所提供的AP串接到自己的介面上。
 
-  ###### News API 應用網站 https://newsapi.org/、 介面生成網站 https://www.gradio.app
+  ###### News API 應用網站 https://newsapi.org/ 、 介面生成網站 https://www.gradio.app
