@@ -4,7 +4,7 @@
   
   ✴️第一次作業測驗：0226前中後測test.ipynb
   
-  ✴️第一次作業：Network_HW1_newsarticle.ipynb
+  ✴️第一次作業：[Network_HW1_newsarticle.ipynb](https://github.com/PhelixDEYU/Network_Class_File/blob/main/Network_HW1_newsarticle.ipynb)
   
  ###### 因為在網路搜尋新聞雖然輸入關鍵字但是會多不必要的資訊，所以會想要快速精準去找尋自己需要的新聞文章，利用News API所提供的AP串接到自己的介面上。
 
