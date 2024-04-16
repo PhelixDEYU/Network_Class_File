@@ -13,3 +13,8 @@
   ✴️第三次作業：[HW3（HuggingFace&langchain串接）.ipynb](https://github.com/PhelixDEYU/Network_Class_File/blob/main/HW3（HuggingFace%26langchain串接）.ipynb)
 
  ###### 應用說明：讓創作發想者想要創造新歌時可以獲得新的靈感所以使用聲音轉文字接著文生文的方式這種流程進行設計。
+
+  ✴️第四次作業：[4hw.ipynb](https://github.com/PhelixDEYU/Network_Class_File/blob/main/4hw.ipynb)
+
+  ###### 應用說明：針對第一次聽到一個不知道在說什麼語言的音檔的人可以有一個轉換的程式，並且對於太長的文字還可以擷取出摘要
+   ######  操作流程：匯入音檔 > 輸出為文字檔 > 將文字檔擷取出摘要
