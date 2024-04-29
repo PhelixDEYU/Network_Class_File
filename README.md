@@ -21,5 +21,5 @@
    <應用介面如下>
 <img width="1055" alt="截圖 2024-04-18 02 10 55" src="https://github.com/PhelixDEYU/Network_Class_File/assets/161267063/cc3ca2d9-6106-4ae1-adc4-e08ddd0bb5f6">
 
-  ✴️第五次作業：([HW5.py ](https://github.com/PhelixDEYU/Network_Class_File/blob/main/HW5.py))
-  ###### 應用說明：本次程式加入後台的時間點紀錄表，讓開發人員可以進行修正調整。
+  ✴️第五次作業：[HW5.py](https://github.com/PhelixDEYU/Network_Class_File/blob/main/HW5.py)
+  ###### 應用說明：本次程式加入後台的時間點紀錄表，讓開發人員可以查閱並進行修正調整。
