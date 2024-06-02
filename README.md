@@ -26,4 +26,4 @@
 
   ✴️FINAL期末專案發想<讓你一鍵了解英語歌>：[FINAL專案資料檔](https://github.com/PhelixDEYU/Network_Class_File/tree/main/FINAL)
   ###### 結合本學習所有應用所學加上數位孿生，並且導入UI介面讓使用者可以實際進行操作
-  使用說明：本次專案是使用python程式加上html網頁的進行結合操作
+  使用說明：本次專案是使用python程式加上html網頁進行結合操作
