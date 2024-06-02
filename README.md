@@ -24,6 +24,6 @@
   ✴️第五次作業：[HW5.py](https://github.com/PhelixDEYU/Network_Class_File/blob/main/HW5.py)
   ###### 應用說明：本次程式加入後台的時間點紀錄表，讓開發人員可以查閱並進行修正調整。
 
-  ✴️FINAL期末專案發想<讓你一鍵了解英語歌>：[FINAL專案資料檔](https://github.com/PhelixDEYU/Network_Class_File/tree/main/FINAL)
+  ✴️FINAL期末專案發想<讓你一鍵了解英語歌>：[FINAL專案資料檔](FINAL專案資料檔)
   ###### 結合本學習所有應用所學加上數位孿生，並且導入UI介面讓使用者可以實際進行操作
   使用說明：本次專案是使用python程式加上html網頁進行結合操作
